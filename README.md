@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=7dudtj)](https://github.com/anuraghazra/github-readme-stats)
-### Contact >>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7dudtj@gmail.com)](mailto:7dudtj01@gmail.com)
+### Contact >> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7dudtj@gmail.com)](mailto:7dudtj01@gmail.com)
