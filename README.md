@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=7dudtj)](https://solved.ac/7dudtj)
 ### Contact me! 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:7dudtj01@gmail.com)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)(https://www.facebook.com/profile.php?id=100015262540147)
-![Instagram](https://img.shields.io/badge/you0seo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/you0seo/?hl=ko)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7dudtj01@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015262540147)
+[![Instagram](https://img.shields.io/badge/you0seo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/you0seo/?hl=ko)
