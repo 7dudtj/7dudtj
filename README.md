@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=7dudtj&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=7dudtj)](https://solved.ac/7dudtj)
-### Contact >> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7dudtj@gmail.com)](mailto:7dudtj01@gmail.com)
+### Contact me! 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7dudtj@gmail.com)](mailto:7dudtj01@gmail.com)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Instagram](https://img.shields.io/badge/you0seo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
