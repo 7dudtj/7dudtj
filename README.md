@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there, My name is Youngseo Yoo
 
 <!--
 **7dudtj/7dudtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=7dudtj&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=7dudtj&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
+  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=7dudtj)](https://solved.ac/7dudtj)
-### Contact me! 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7dudtj01@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015262540147)
-[![Instagram](https://img.shields.io/badge/you0seo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/you0seo/?hl=ko)
+
+- 💻 I'm majoring in Computer Science at Yonsei University (scheduled to graduate from 2018.03 to 2024.02)
+- ☕ I'm interested in **Recommender System** and **MLOps**
+
+### 📡 Contact me! 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7dudtj@yonsei.ac.kr)](mailto:7dudtj@yonsei.ac.kr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngseo-yoo-a5135224b/)](https://www.linkedin.com/in/youngseo-yoo-a5135224b/)
