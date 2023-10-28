@@ -19,9 +19,6 @@ Here are some ideas to get you started:
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=7dudtj)](https://solved.ac/7dudtj)
 
-- 💻 I'm majoring in Computer Science at Yonsei University (scheduled to graduate from 2018.03 to 2024.02)
-- ☕ I'm interested in **Recommender System** and **MLOps**
-
 ### 📡 Contact me! 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7dudtj@yonsei.ac.kr)](mailto:7dudtj@yonsei.ac.kr)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngseo-yoo-a5135224b/)](https://www.linkedin.com/in/youngseo-yoo-a5135224b/)
